@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3456450",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "11372654",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "11372734",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "33095606",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "100ef",
+      "unicode_decimal": 65775
+    },
+    {
+      "icon_id": "33096077",
+      "name": "我的账户",
+      "font_class": "wodezhanghu",
+      "unicode": "100f2",
+      "unicode_decimal": 65778
+    },
+    {
+      "icon_id": "34092220",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "10100",
+      "unicode_decimal": 65792
+    },
+    {
+      "icon_id": "34092221",
+      "name": "扫描",
+      "font_class": "saomiao",
+      "unicode": "10101",
+      "unicode_decimal": 65793
+    },
+    {
+      "icon_id": "34092222",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "10102",
+      "unicode_decimal": 65794
+    }
+  ]
+}
